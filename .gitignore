@@ -6,3 +6,4 @@ venv/
 staticfiles/
 media/
 *.log
+.gitignore
